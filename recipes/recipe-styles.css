@@ -1,6 +1,10 @@
-html {
+* {
   background-color: darkslategrey;
   text-align: center;
+}
+
+html {
+  color: rgb(162, 133, 133);
 }
 
 h1 {
@@ -9,4 +13,8 @@ h1 {
 
 ul>li::marker {
   color: darkslategrey;
+}
+
+ol>li {
+  text-align: left;
 }
