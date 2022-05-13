@@ -1,0 +1,17 @@
+* {
+  background-color: darkslategrey;
+  text-align: center;
+}
+
+h1 {
+  padding-left: 3%;
+  color: dodgerblue;
+}
+
+a {
+  color: rgb(162, 133, 133);
+}
+
+li::marker {
+  color: darkslategrey;
+}
