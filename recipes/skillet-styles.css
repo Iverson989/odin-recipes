@@ -1,3 +1,13 @@
 html {
   background-color: darkslategrey;
+  text-align: center;
+}
+
+h1 {
+  padding-left: 3%;
+  color: dodgerblue;
+}
+
+ul>li::marker {
+  color: darkslategrey;
 }
